@@ -1,4 +1,4 @@
-# Socket
+# Socket App Using Angular And Node #
 
 This application used angular cli version 10 so for run this applicaton you must have angular 10 cli install in your system.
 
@@ -24,3 +24,4 @@ For Run This Project Follow Following Instructions:-
 5. type locahost:4200 on both browser
 
 6. enjoy the application.............
+
